@@ -3,5 +3,5 @@
  -->
 
 <apex:page id="TestVF">
-    This is a test
+    This is a test page
 </apex:page>
